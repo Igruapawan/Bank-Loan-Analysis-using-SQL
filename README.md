@@ -4,3 +4,4 @@ Our GitHub repository features a comprehensive bank loan analysis project execut
 
 
 (https://github.com/Igruapawan/Bank-Loan-Analysis-using-SQL/assets/98211165/8422e7fd-1da0-4986-81ec-6e97a1d62cca)
+![hqdefault](https://github.com/Igruapawan/Bank-Loan-Analysis-using-SQL/assets/98211165/f46ab544-66e2-4d88-bccf-8459836da67b)
